@@ -9,7 +9,7 @@
 <h1 align="center"> Fundamentos do NodeJS </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/progress-10%25-brightgreen.svg" alt="PRs Welcome">
+   <img src="https://img.shields.io/badge/progress-90%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/fundamentos-nodejs" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/fundamentos-nodejs" />
    <img src = "https://img.shields.io/github/stars/LissandraRodrigues/fundamentos-nodejs" />
@@ -33,8 +33,7 @@
 ## :dart: Sobre ##
 
 <p align="center">
-  :warning: Em construção
-	<img align ="center" width="500px" heigth="500px" src=""/>
+	<img align ="center" width="500px" heigth="500px" src="challenge.png"/>
 </p>
 
 <br>
@@ -69,7 +68,7 @@ $ cd fundamentos-nodejs
 $ yarn 
 
 # Execute o projeto.
-$ yarn start
+$ yarn dev:server
 
 ```
 
